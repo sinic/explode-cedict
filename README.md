@@ -1,5 +1,6 @@
-This stupid two-liner finds (by default Traditional) Chinese words
-consisting only of characters occuring in words you already know,
+This stupid two-liner finds Chinese words
+consisting only of (by default traditional) characters
+occuring in words you already know,
 useful for suggesting low-hanging fruit to add to a flashcard deck.
 
 Here's an almost minimal example, just to demonstrate its usage:
