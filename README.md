@@ -1,6 +1,6 @@
-This stupid two-liner takes a set of (by default Traditional) Chinese words and
-lists a superset of words consisting only of characters occurring in the input,
-moderately useful for suggesting low-hanging fruit to add to a flashcard deck.
+This stupid two-liner finds (by default Traditional) Chinese words
+consisting only of characters occuring in words you already know,
+useful for suggesting low-hanging fruit to add to a flashcard deck.
 
 Here's an almost minimal example, just to demonstrate its usage:
 ```
