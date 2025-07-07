@@ -5,7 +5,7 @@ useful for suggesting low-hanging fruit to add to a flashcard deck.
 Here's an almost minimal example, just to demonstrate its usage:
 ```
 $ curl https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.txt.gz | gunzip > cedict.txt
-$ ./explode-cedict.awk - cedict.txt < EOF
+$ ./explode-cedict.awk - cedict.txt << EOF
 > 你好
 > 我
 > EOF
